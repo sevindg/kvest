@@ -1,0 +1,9 @@
+{
+  "name": "rebotica-mult6-quest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Веб-тренажер-квест «Таблица умножения на 6» в стилистике школы Rebotica",
+  "scripts": {
+    "dev": "node server.js"
+  }
+}
